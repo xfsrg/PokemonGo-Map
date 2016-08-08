@@ -10,7 +10,7 @@ You can install the required packages on Ubuntu by running the following command
 
 .. code-block:: bash
 
-  sudo apt-get install python python-pip
+  sudo apt-get install python python-pip python-dev
 
 Red Hat or CentOs or Fedora
 ***************************
