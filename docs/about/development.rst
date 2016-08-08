@@ -7,7 +7,7 @@ App Development
 
   These instructions will help you get started contributing code to the **develop** branch.
   If you just want to **use the map** you should not use **develop**.
-  `Download a release <https://github.com/AHAAAAAAA/PokemonGo-Map/releases>`_ instead.
+  `Download a release <https://github.com/PokemonGoMap/PokemonGo-Map/releases>`_ instead.
 
 Development requires several tools to get the job done. Python, obviously, needs to be installed. We also utilize NodeJS and Grunt for front-end tasks.
 
@@ -49,7 +49,7 @@ Simply type
 
 ``grunt``
 
-on the command-line. This runs a default grunt "task" that performs a number of subtasks, like transforming JS with Babel, minifying, linting, and copying (see `Gruntfile.js <https://github.com/AHAAAAAAA/PokemonGo-Map/blob/develop/Gruntfile.js>`_)
+on the command-line. This runs a default grunt "task" that performs a number of subtasks, like transforming JS with Babel, minifying, linting, and copying (see `Gruntfile.js <https://github.com/PokemonGo-Map/PokemonGo-Map/blob/develop/Gruntfile.js>`_)
 
 grunt-watch
 ====================
